@@ -1,2 +1,3 @@
 /my-koa/node_modules
 /my-koa/dist
+/my-koa/package-lock.json
