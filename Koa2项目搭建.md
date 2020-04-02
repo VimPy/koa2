@@ -4,9 +4,9 @@
    npm install koa-generator -g 
    ```
 
-2. <img src="C:\Users\fengqishuai\Desktop\koa-install.PNG" style="zoom:50%;" />
+2. koa2 my-koa--->cd my-koa && npm install--->SET DEBUG=koa* & npm start my-koa
 
-3. 目录结构
+3. 生成的目录结构
 
    .
    +-- bin
@@ -26,4 +26,3 @@
    +-- app.js                         // 主入口文件
    +-- package.json             // 存储项目名、描述、作者、依赖等等信息
    +-- package-lock.json     // 存储项目依赖的版本信息，确保项目内的每个人安装的版本一致
-   
